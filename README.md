@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anitha K
-- 👀 I’m interested in FRONTEND development 
-- 🌱 I’m currently learning python, Javascript
+- 👀 I’m interested in Backend development 
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me through my email anithabalasubramanaian75@gmail.com
 
